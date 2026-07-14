@@ -40,6 +40,9 @@ Program çalıştırıldığında kullanıcıya işlem seçenekleri sunulur. Kul
 6 - Karekök Alma
 
 Seçiminiz:
+#Ekran Goruntusu#
+<img width="369" height="289" alt="HesapMakinesi" src="https://github.com/user-attachments/assets/2c5e1db6-20b6-40fa-9686-12d3677b57f8" />
+
 Kurulum ve Çalıştırma
 Repoyu bilgisayarınıza klonlayın:
 git clone proje-linki
